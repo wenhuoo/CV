@@ -1,0 +1,25 @@
+body {
+  position: relative; }
+
+.container-fluid {
+  background: url(../image/sumBg.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow: hidden;
+  height: 100%; }
+
+h1 {
+  font-size: 300%;
+  font-family: verdana;
+  color: #292929;
+  border: #f7f7f7 solid white; }
+
+#mainDiv {
+  width: 100%;
+  text-align: center;
+  height: 100vh;
+  padding-top: 20%; }
+
+/*# sourceMappingURL=custom.css.map */
